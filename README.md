@@ -27,9 +27,9 @@ The p5.js code is parsed into two separate components: the JavaScript side and t
 
 ### Code Examples
 
-```javascript
 Accessing NFT Metadata
 
+```javascript
 const Mammoths = FormaCollection('0xbE25A97896b9CE164a314C70520A4df55979a0c6');
 
 // Retrieve metadata as a string
